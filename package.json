@@ -1,7 +1,7 @@
 {
-  "name": "climate-change-api",
+  "name": "BBC World News API",
   "version": "1.0.0",
-  "description": "",
+  "description": " An API that collects news from various regions around the world from the BBC website. It provides access to the latest news articles, summaries, URLs, images, timestamps, and sources for news items covering a wide range of topics such as climate, wars, coronavirus, business, technology, science, health, and more. The API fetches news data from the BBC website and provides a convenient way to access and retrieve up-to-date news information from different regions globally.",
   "main": "index.js",
   "type": "module",
   "scripts": {
